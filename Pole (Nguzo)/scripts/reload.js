@@ -1,0 +1,1 @@
+window.setInterval(function(){console.log('reloaded')}, 100);
